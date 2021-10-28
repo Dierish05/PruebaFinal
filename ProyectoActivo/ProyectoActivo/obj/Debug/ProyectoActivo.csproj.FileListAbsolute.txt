@@ -1,0 +1,11 @@
+C:\Users\JADPA_19\source\repos\ProyectoActivo\ProyectoActivo\bin\Debug\ProyectoActivo.exe.config
+C:\Users\JADPA_19\source\repos\ProyectoActivo\ProyectoActivo\bin\Debug\ProyectoActivo.exe
+C:\Users\JADPA_19\source\repos\ProyectoActivo\ProyectoActivo\bin\Debug\ProyectoActivo.pdb
+C:\Users\JADPA_19\source\repos\ProyectoActivo\ProyectoActivo\obj\Debug\ProyectoActivo.csprojAssemblyReference.cache
+C:\Users\JADPA_19\source\repos\ProyectoActivo\ProyectoActivo\obj\Debug\ProyectoActivo.Properties.Resources.resources
+C:\Users\JADPA_19\source\repos\ProyectoActivo\ProyectoActivo\obj\Debug\ProyectoActivo.csproj.GenerateResource.cache
+C:\Users\JADPA_19\source\repos\ProyectoActivo\ProyectoActivo\obj\Debug\ProyectoActivo.csproj.CoreCompileInputs.cache
+C:\Users\JADPA_19\source\repos\ProyectoActivo\ProyectoActivo\obj\Debug\ProyectoActivo.exe
+C:\Users\JADPA_19\source\repos\ProyectoActivo\ProyectoActivo\obj\Debug\ProyectoActivo.pdb
+C:\Users\JADPA_19\source\repos\ProyectoActivo\ProyectoActivo\obj\Debug\ProyectoActivo.Forms.FrmActivo.resources
+C:\Users\JADPA_19\source\repos\ProyectoActivo\ProyectoActivo\obj\Debug\ProyectoActivo.Forms.FrmAdd.resources
